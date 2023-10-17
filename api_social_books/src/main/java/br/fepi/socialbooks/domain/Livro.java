@@ -3,7 +3,11 @@ package br.fepi.socialbooks.domain;
 import java.util.Date;
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonInclude.Include;
+
 public class Livro {
+	@JsonInclude(Include.NON_NULL)
 	private Long id;
 	
 	private String nome;
@@ -17,6 +21,11 @@ public class Livro {
 	private String autor;
 	
 	private List<Comentario> comentarios ;
+	public Livro(String nome) {
+	    this.nome = nome;
+	}
+
+
 
 	public Long getId() {
 		return id;
