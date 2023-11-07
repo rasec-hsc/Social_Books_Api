@@ -1,5 +1,6 @@
 # Social_Books_Api
+Desemvolvido durante a diciplina de feramentas de desenvolvimento web
 
-Cesar Henrique Silva Coelho Nogueira <br />
-00020247  <br />
-Iremos trabalhar desenvolvendo uma API para uma biblioteca
+Cauan Guimarães dos Santos - 00020627 - Tec. Análisse e desenvolvimento de sistemas
+
+Projeto utiliza conceitos de REST utilizando Spring boot
