@@ -1,5 +1,5 @@
 # Social_Books_Api
-Desemvolvido durante a diciplina de feramentas de desenvolvimento web
+Desenvolvido durante a diciplina de feramentas de desenvolvimento web
 
 Cesar Henrique - 00020247 - Tec. Análisse e desenvolvimento de sistemas
 
